@@ -1,0 +1,9 @@
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\bin\Debug\ArduinoTemp.exe.config
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\bin\Debug\ArduinoTemp.exe
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\bin\Debug\ArduinoTemp.pdb
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\obj\Debug\ArduinoTemp.csprojResolveAssemblyReference.cache
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\obj\Debug\ArduinoTemp.Properties.Resources.resources
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\obj\Debug\ArduinoTemp.csproj.GenerateResource.Cache
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\obj\Debug\ArduinoTemp.exe
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\obj\Debug\ArduinoTemp.pdb
+d:\david\documents\visual studio 2015\Projects\ArduinoTemp\ArduinoTemp\obj\Debug\ArduinoTemp.ArduinoTemp.resources
